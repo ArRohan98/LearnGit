@@ -1,5 +1,5 @@
 # LearnGit
 Learning Git basics
-modific in local master
+modific is done in remote master
 modification to readme done in origin master 
   ...........
